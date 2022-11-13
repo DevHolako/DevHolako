@@ -58,6 +58,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=HolakoNoob&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+</br>
 </a>
  </p>
 
@@ -74,18 +80,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=HolakoNoob&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
