@@ -24,8 +24,8 @@ I am a Full-stack web developer from Moroco,continually working to improve my sk
 
 
 ### 📊 Stats
-
-![DevHolako GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHolako&show_icons=true&theme=gruvbox)
+![DevHolako GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHolako&show_icons=true&theme=gruvbox)&nbsp; &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHolako&layout=compact)
 #
 
 ### 📫 How to reach me:
