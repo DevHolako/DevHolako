@@ -30,6 +30,6 @@ I am a Full-stack web developer from Moroco,continually working to improve my sk
 
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/HolakoNoob>
-  - Website   : <https://holako.tech>
+  - Website   : <https://holako.dev>
   - Linkedin : <https://www.linkedin.com/in/marouane-rguibi>
   - Email    : <a href = "mailto: marouane@holako.tech"><marouane@holako.tech></a>
