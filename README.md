@@ -1,5 +1,4 @@
 # 🤺 DevHolako 
-# Hi - السلام عليكم - שָׁלוֹם
 <div align="center">
 I am a Full-stack web developer from Moroco,continually working to improve my skills and strive to become the best in the field. I have a passion for the logic and structure of coding and always aim to write elegant and efficient code, whether it's in HTML, CSS, or JavaScript. 
 <br />With over 1 year of experience in full-stack web development, I have gained valuable expertise in this domain.
