@@ -1,4 +1,4 @@
-# 🤺 DevHolako 
+# DevHolako 🤺
 <div align="center">
 Full-stack Web Developer from Morocco. Passionate about clean, efficient code and problem-solving. Working at <a target="_blank" href="https://integraltech.ma/">Integral Progress Technology</a> with 2+ years of experience in building web applications.
 </div>
