@@ -34,6 +34,14 @@ Full-stack Web Developer from Morocco. Passionate about clean, efficient code an
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHolako&layout=compact)
 #
 
+<div align="center">
+  <a href="https://commit-history.com/DevHolako">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/DevHolako?theme=dark" />
+      <img alt="DevHolako's commit history" src="https://commit-history.com/embed/DevHolako" />
+    </picture>
+  </a>
+</div>
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/HolakoNoob>
   - Website   : <https://holako.dev>
