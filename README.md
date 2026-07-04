@@ -26,14 +26,6 @@ Full-stack Web Developer from Morocco. Passionate about clean, efficient code an
 
 ### 📊 Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevHolako&show_icons=true&theme=github_dark&hide_border=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevHolako&theme=github-dark&hide_border=true" height="170px"/>
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHolako&layout=compact)
-#
-
 <div align="center">
   <a href="https://commit-history.com/DevHolako">
     <picture>
@@ -42,6 +34,7 @@ Full-stack Web Developer from Morocco. Passionate about clean, efficient code an
     </picture>
   </a>
 </div>
+
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/HolakoNoob>
   - Website   : <https://holako.dev>
