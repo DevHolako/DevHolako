@@ -1,6 +1,6 @@
 # DevHolako 🤺
 <div align="center">
-Full-stack Web Developer from Morocco. Passionate about clean, efficient code and problem-solving. Working at <a target="_blank" href="https://integraltech.ma/">Integral Progress Technology</a> with 3+ years of experience in building web applications.
+Full-stack Web Developer from Morocco. Passionate about clean, efficient code and problem-solving. Working at <a target="_blank" href="https://www.weshore.com">Weshore</a> with 4+ years of experience in building web applications.
 </div>
 
 ---
